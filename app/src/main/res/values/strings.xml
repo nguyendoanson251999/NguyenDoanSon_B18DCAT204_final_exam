@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">finalfinal</string>
+    <string-array name="category">
+        <item>Dell</item>
+        <item>Acer</item>
+        <item>Asus</item>
+        <item>Macbook</item>
+        <item>Surface</item>
+    </string-array>
+</resources>
